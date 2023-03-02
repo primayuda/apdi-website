@@ -59,10 +59,10 @@ export default {
     },
   ],
   metaData: {
-    authorName: "Bob",
-    summary: "My personal blog",
-    category: "Blog",
-    keywords: ["Blog", "Astro"],
-    icon: "favicon.ico",
+    authorName: "Asosiasi Pemimpin Digital Indonesia",
+    summary: "Website for Asosiasi Pemimpin Digital Indonesia",
+    category: "Landing Page",
+    keywords: ["Landing page", "Astro"],
+    icon: "apdi-icon.ico",
   },
 };

@@ -1,6 +1,6 @@
-# Astro Bob's blog
+# Website for Asosiasi Pemimpin Digital Indonesia - based on Astro Bob's blog
 
-A responsive, personal blog template, built with Astro and Tailwind CSS.
+A responsive website, built with Astro and Tailwind CSS.
 
 
 
